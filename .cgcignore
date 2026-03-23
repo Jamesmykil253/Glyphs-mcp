@@ -1,0 +1,7 @@
+glyphs-build-env/
+__pycache__/
+node_modules/
+plugin-manager/
+GlyphsSDK/
+*.pyc
+*.pyo
