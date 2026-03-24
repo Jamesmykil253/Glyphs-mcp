@@ -101,3 +101,15 @@ pip3 install --user mcp-proxy
 ```
 
 The `PATH` override pins Claude Desktop to the `mcp-proxy` shim that `pip3` drops into Python 3.12’s `bin` directory. If your interpreter lives elsewhere (for example a `pyenv` or Homebrew install), replace that prefix with `$(python3 -m site --user-base)/bin`.
+## Studio Brain Cross-Reference
+
+| Resource | Location |
+|---|---|
+| Master routing | `/Users/nsa/Studio/CLAUDE.md` |
+| Session primer | `/Users/nsa/Studio/AGENTS.md` |
+| Domain skills | `/Users/nsa/Studio/.github/skills/` |
+| Agent definitions | `/Users/nsa/Studio/.github/agents/` |
+| Error log | `/Users/nsa/Studio/.learnings/ERRORS.md` |
+| Creator corrections | `/Users/nsa/Studio/.learnings/CORRECTIONS.md` |
+| Creator voice profile | `/Users/nsa/Studio/.memory/creator-profile.md` |
+| System docs (ground truth) | `~/Documents/AI/Studio-System-Docs/` |

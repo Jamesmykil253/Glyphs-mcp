@@ -67,3 +67,16 @@ A Model Context Protocol (MCP) server bundled as a Glyphs 3 plugin. Exposes Glyp
 - **MCP protocol:** Streamable HTTP (SSE), port 9680
 - **Python:** Glyphs embedded Python
 - **IDE:** VS Code + GitHub Copilot
+
+## Studio Brain Cross-Reference
+
+| Resource | Location |
+|---|---|
+| Master routing | `/Users/nsa/Studio/CLAUDE.md` |
+| Session primer | `/Users/nsa/Studio/AGENTS.md` |
+| Domain skills | `/Users/nsa/Studio/.github/skills/` |
+| Agent definitions | `/Users/nsa/Studio/.github/agents/` |
+| Error log | `/Users/nsa/Studio/.learnings/ERRORS.md` |
+| Creator corrections | `/Users/nsa/Studio/.learnings/CORRECTIONS.md` |
+| Creator voice profile | `/Users/nsa/Studio/.memory/creator-profile.md` |
+| System docs (ground truth) | `~/Documents/AI/Studio-System-Docs/` |
